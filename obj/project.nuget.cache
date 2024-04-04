@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w3lS83Mkq51IAbSqKVJdw7qLHYf0p5IPizaE67KalFZ/wVc5zVVki3MlKEKQrrgK1Rn/P5H4Mb9CLZriY0uTkA==",
+  "dgSpecHash": "1oW/FzJWT6Vmu2gufoJfDMZaJjBjedqOGYpDOrtFh7CrsYAIX7SKMgLqwZqVDGm65CsLRa3KcdRs6YugDEY/vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi IMEI information.csproj",
+  "projectFilePath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\Xiaomi IMEI information.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMINPC\\.nuget\\packages\\metroframework.runtime\\1.2.0.3\\metroframework.runtime.1.2.0.3.nupkg.sha512",
     "C:\\Users\\ADMINPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",

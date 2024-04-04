@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi IMEI information.csproj": {}
+    "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\Xiaomi IMEI information.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi IMEI information.csproj": {
+    "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\Xiaomi IMEI information.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi IMEI information.csproj",
+        "projectUniqueName": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\Xiaomi IMEI information.csproj",
         "projectName": "Xiaomi IMEI information",
-        "projectPath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi IMEI information.csproj",
+        "projectPath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\Xiaomi IMEI information.csproj",
         "packagesPath": "C:\\Users\\ADMINPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\obj\\",
+        "outputPath": "C:\\Users\\ADMINPC\\Downloads\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-IMEI-Country-information-C-Sharp-NET-main\\Xiaomi-Imei-Check\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMINPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
